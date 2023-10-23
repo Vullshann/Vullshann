@@ -13,13 +13,11 @@
 
 <h2 align="center">Stats</h2>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vullshann&theme=dark&hide_border=false&stroke=0000&background=0D1117&ring=FFFFFF&fire=e6b800&currStreakLabel=FFFFFF" alt="Vullshann"/></p>
-
-<h1 align="center">Give a ⭐️ if this project helped you !</h1>
-
 <p align="center">
   <a href="https://github.com/Vullshann">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vullshann&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vullshann&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
+
+<h1 align="center">Give a ⭐️ if this project helped you !</h1>
