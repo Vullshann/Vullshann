@@ -1,160 +1,138 @@
-<!-- ──────────────── HEADER ──────────────── -->
-<h1 align="center">⚡ Vullshann ⚡</h1>
-<h3 align="center">Ingénierie IA • Futurisme Quantique • Architecte Cybernétique</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=IA+Autonome;Informatique+Quantique;Cybersécurité+Avancée;Neural+Graphs;Systèmes+Distribués;Uptime+99.99%25" alt="Typing SVG">
-</p>
-
----
-
-<!-- ──────────────── STACK ──────────────── -->
-<h2 align="center">🛠 Stack & Technologies</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/C%23-202020?style=for-the-badge&logo=c-sharp&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=6DA55F">
-  <img src="https://img.shields.io/badge/Blueprint-0011ff?style=for-the-badge"><br>
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-101010?style=for-the-badge&logo=openai&logoColor=00bfff">
-  <img src="https://img.shields.io/badge/Quantum_Computing-111144?style=for-the-badge&logo=quantconnect&logoColor=5e4bff">
-</p>
-
----
-
-<!-- ──────────────── ARCHITECTURE ──────────────── -->
-<h2 align="center">🌌 Architecture Mentale</h2>
-
-```ascii
-╔════════════════════════════════════════════════════╗
-║   > Autonomous AI Systems                          ║
-║   > Distributed Quantum Frameworks                 ║
-║   > Encrypted Neural Graphs                        ║
-║   > Adaptive Knowledge Engines                     ║
-║   > Cybernetic Security Layers                     ║
-║   > Self-Improving Neural Cores                    ║
-╚════════════════════════════════════════════════════╝
-```
-
----
-
-<!-- ──────────────── METRICS ──────────────── -->
-<h2 align="center">📊 Statistiques & Métriques</h2>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vullshann&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vullshann&layout=compact&theme=chartreuse-dark&langs_count=8">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vullshann&theme=chartreuse-dark">
+  <img src="assets/banner.svg" alt="Vullshann — Ingénierie IA, agents autonomes, produits SaaS" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vullshann&color=00ff99&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Code%20Integrity-100%25-00ffcc?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Uptime-99.99%25-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Security-Layer%20X15-critical?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Monitoring-Active-blue?style=for-the-badge">
-</p>
-
----
-
-<!-- ──────────────── PROJECTS ──────────────── -->
-<h2 align="center">📌 Projets Épinglés</h2>
-
-<p align="center">
-  <a href="LIEN_DU_PREMIER_PROJET">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vullshann&repo=Bot_jiffeo&theme=chartreuse-dark">
-    <br><sub>🤖 Automatisation IA avancée</sub>
-  </a>
-  <br><br>
-  <a href="LIEN_DU_DEUXIEME_PROJET">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vullshann&repo=God-s-Eye&theme=chartreuse-dark">
-    <br><sub>👁️ Système de surveillance autonome</sub>
-  </a>
-</p>
-
----
-
-<!-- ──────────────── SYSTEM STATUS ──────────────── -->
-<h2 align="center">🧩 System Boot</h2>
-
-```ascii
-[BOOT SEQUENCE]
-> Initializing neural core .......... OK
-> Linking quantum nodes ............. OK
-> Deploying distributed clusters .... OK
-> Encrypting system logs ............ OK
-> Uptime Monitor .................... ACTIVE
-> Anomaly Detection ................. ONLINE
-> STATUS : ACTIVE - MONITORING - EVOLVING
-```
-
----
-
-<!-- ──────────────── ROADMAP ──────────────── -->
-<h2 align="center">🚀 Roadmap Futuriste</h2>
-
-```ascii
-[2025] > IA Autonome v1 - Stable Core
-[2026] > Quantum Layer - Multi-Cluster
-[2027] > Self-Learning Reasoning Engine
-[2028] > Global Distributed AI Network
-[2030] > Autonomous Cybernetic Intelligence
-```
-
----
-
-<!-- ──────────────── BADGES ──────────────── -->
-<h2 align="center">🏆 Certifications & Proofs</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Secure-Cyber%20Verified-0ff?style=flat-square&logo=shield">
-  <img src="https://img.shields.io/badge/Quantum-Ready-blueviolet?style=flat-square&logo=quantcast">
-  <img src="https://img.shields.io/badge/IA%20Autonome-Validated-success?style=flat-square&logo=ai">
-  <img src="https://img.shields.io/badge/Open%20Source-Active-critical?style=flat-square&logo=github">
-  <img src="https://img.shields.io/badge/Confidential-Encrypted-informational?style=flat-square&logo=protonmail">
-  <img src="https://img.shields.io/badge/Cluster-Nodes%20128-orange?style=flat-square&logo=server">
-  <img src="https://img.shields.io/badge/Neural%20Graphs-Optimized-00ffcc?style=flat-square&logo=graphite">
-</p>
-
----
-
-<!-- ──────────────── MONITORING ──────────────── -->
-<h2 align="center">📡 Monitoring & Logs</h2>
-
-```ascii
-[REAL-TIME STATUS]
-CPU LOAD   : 21% ⚡
-MEMORY USE : 63% 🧠
-DISK I/O   : 7% 💾
-NETWORK    : Secure / Encrypted 🔒
-THREATS    : 0 detected ✅
-```
-
----
-
-<!-- ──────────────── FOLLOW ──────────────── -->
-<h2 align="center">🌐 Rejoins l’Odyssée</h2>
-
-<p align="center">
-  <a href="https://github.com/Vullshann?tab=followers">
-    <img src="https://img.shields.io/github/followers/Vullshann?label=Followers&style=social">
-  </a>
+  <a href="https://github.com/Vullshann"><img src="https://img.shields.io/badge/GitHub-Vullshann-0a0e1a?style=for-the-badge&logo=github&logoColor=00e5ff&labelColor=0a0e1a&color=1c2750"></a>
+  <img src="https://img.shields.io/badge/Statut-Disponible-22c55e?style=for-the-badge&labelColor=0a0e1a">
+  <img src="https://img.shields.io/badge/Focus-IA%20%26%20SaaS-8b5cf6?style=for-the-badge&labelColor=0a0e1a">
+  <img src="https://komarev.com/ghpvc/?username=Vullshann&label=Vues&color=00e5ff&style=for-the-badge&labelColor=0a0e1a">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&duration=3000&pause=500&color=00FF99&center=true&vCenter=true&multiline=true&repeat=false&width=700&lines=Construire+l’avenir;Une+ligne+de+code+à+la+fois;Système+actif+%7C+Surveillance+continue+%7C+IA+autonome" alt="End">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00E5FF&center=true&vCenter=true&width=760&lines=Je+construis+des+agents+IA+utiles+et+fiables;Produits+SaaS+pensés+pour+la+confidentialité;De+l'idée+au+produit+déployé" alt="Typing SVG">
 </p>
 
----
+<img src="assets/divider.svg" width="100%" alt="">
 
-<!-- ──────────────── FOOTER ──────────────── -->
-```ascii
-   ╔══════════════════════════════════════════════════════╗
-   ║   VULLSHANN // CORE SYSTEM ONLINE                   ║
-   ║   - Autonomous Intelligence Engine                  ║
-   ║   - Distributed Quantum Protocols                   ║
-   ║   - Multi-Layer Security Architecture               ║
-   ║   - Continuous Evolution & Monitoring               ║
-   ╚══════════════════════════════════════════════════════╝
-```
+## ◢ À propos
+
+Développeur autodidacte, je conçois des **systèmes d'IA autonomes** et des **produits logiciels** pensés pour être utilisés au quotidien : automatisation, supervision, outils pour les équipes et les créateurs.
+
+Ce que je recherche dans chaque projet :
+
+| | |
+|---|---|
+| 🎯 **Utilité** | Résoudre un vrai problème, pas empiler des fonctionnalités. |
+| 🔒 **Confidentialité** | Les données de chaque client restent privées et cloisonnées. |
+| ⚙️ **Fiabilité** | Un code lisible, testé, qui tient dans la durée. |
+| 💸 **Sobriété** | Maîtriser les coûts (tokens, ressources) dès la conception. |
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## ◢ Compétences
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Langages**
+
+<img src="https://img.shields.io/badge/JavaScript-0a0e1a?style=flat-square&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/Node.js-0a0e1a?style=flat-square&logo=node.js&logoColor=6DA55F">
+<img src="https://img.shields.io/badge/C%23-0a0e1a?style=flat-square&logo=csharp&logoColor=white">
+<img src="https://img.shields.io/badge/Lua-0a0e1a?style=flat-square&logo=lua&logoColor=2C2D72">
+<img src="https://img.shields.io/badge/HTML%2FCSS-0a0e1a?style=flat-square&logo=html5&logoColor=E34F26">
+
+</td>
+<td width="33%" valign="top">
+
+**IA & automatisation**
+
+<img src="https://img.shields.io/badge/Agents%20IA-0a0e1a?style=flat-square&logo=openai&logoColor=00e5ff">
+<img src="https://img.shields.io/badge/LLM%20%26%20Prompting-0a0e1a?style=flat-square&logoColor=8b5cf6&color=1c2750">
+<img src="https://img.shields.io/badge/Bots%20%26%20Workflows-0a0e1a?style=flat-square&logo=discord&logoColor=5865F2">
+
+</td>
+<td width="33%" valign="top">
+
+**Produit & outils**
+
+<img src="https://img.shields.io/badge/Git%20%26%20GitHub-0a0e1a?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Unreal%20Blueprint-0a0e1a?style=flat-square&logo=unrealengine&logoColor=white">
+<img src="https://img.shields.io/badge/Architecture%20SaaS-0a0e1a?style=flat-square&logoColor=00e5ff&color=1c2750">
+
+</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## ◢ Projets
+
+### Projet principal — en cours de développement
+
+> **Agentopia** — plateforme SaaS d'agents IA : agents spécialisés par entreprise, optimisation automatique de la consommation de tokens, données privées par client, formules d'abonnement.
+> *Développement privé — démonstration publique à venir.*
+
+### Projets publics
+
+<table>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/Vullshann/Bot_jiffeo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vullshann&repo=Bot_jiffeo&theme=tokyonight&bg_color=0a0e1a&border_color=1c2750&title_color=00e5ff&hide_border=false" alt="Bot_jiffeo"></a>
+<br><sub>🤖 Bot d'automatisation</sub>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/Vullshann/God-s-Eye"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vullshann&repo=God-s-Eye&theme=tokyonight&bg_color=0a0e1a&border_color=1c2750&title_color=00e5ff" alt="God-s-Eye"></a>
+<br><sub>👁️ Supervision et surveillance</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/Vullshann/help-egypte"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vullshann&repo=help-egypte&theme=tokyonight&bg_color=0a0e1a&border_color=1c2750&title_color=00e5ff" alt="help-egypte"></a>
+<br><sub>🌐 Site web</sub>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/Vullshann/bottleGames"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vullshann&repo=bottleGames&theme=tokyonight&bg_color=0a0e1a&border_color=1c2750&title_color=00e5ff" alt="bottleGames"></a>
+<br><sub>🎮 Jeux</sub>
+</td>
+</tr>
+</table>
+
+### Projets professionnels à venir
+
+<p align="center">
+  <img src="assets/soon.svg" width="48%" alt="Projet professionnel à venir">
+  <img src="assets/soon.svg" width="48%" alt="Projet professionnel à venir">
+</p>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## ◢ Activité
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vullshann&show_icons=true&theme=tokyonight&bg_color=0a0e1a&border_color=1c2750&title_color=00e5ff&icon_color=8b5cf6&hide_border=false">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vullshann&layout=compact&theme=tokyonight&bg_color=0a0e1a&border_color=1c2750&title_color=00e5ff&langs_count=6">
+</p>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## ◢ Feuille de route
+
+- [x] Premiers bots et outils publics
+- [x] Agentopia : agents, optimisation des tokens, parrainage, analyste d'entreprise
+- [ ] Agentopia : ouverture de la version publique
+- [ ] Publication de projets professionnels détaillés ici
+- [ ] Études de cas : problème, solution, résultats
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## ◢ Contact
+
+<p align="center">
+  <a href="https://github.com/Vullshann"><img src="https://img.shields.io/badge/GitHub-Vullshann-0a0e1a?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e1a&color=1c2750"></a>
+  <a href="https://github.com/Vullshann?tab=followers"><img src="https://img.shields.io/github/followers/Vullshann?label=Followers&style=for-the-badge&labelColor=0a0e1a&color=1c2750"></a>
+</p>
+
+<p align="center"><sub>Coder pour progresser — et pour le plaisir.</sub></p>

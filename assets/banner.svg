@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Vullshann — Développeur IA et systèmes autonomes">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b16"/><stop offset="1" stop-color="#101736"/>
+    </linearGradient>
+    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00e5ff"/><stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#1c2750" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow1" cx="0.85" cy="0.1" r="0.6">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity="0.45"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.1" cy="0.95" r="0.6">
+      <stop offset="0" stop-color="#00e5ff" stop-opacity="0.30"/><stop offset="1" stop-color="#00e5ff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00e5ff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00e5ff" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#00e5ff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="card"><rect width="1200" height="320" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#grid)" opacity="0.55"/>
+    <rect width="1200" height="320" fill="url(#glow1)"/>
+    <rect width="1200" height="320" fill="url(#glow2)"/>
+    <rect y="-60" width="1200" height="60" fill="url(#scan)">
+      <animate attributeName="y" from="-60" to="320" dur="5s" repeatCount="indefinite"/>
+    </rect>
+    <!-- réseau de nœuds -->
+    <g stroke="#00e5ff" stroke-opacity="0.35" stroke-width="1" fill="none">
+      <path d="M840 70 L930 120 L1030 80 L1110 150 L1020 210 L920 190 L840 70"/>
+      <path d="M930 120 L1020 210 M1030 80 L1020 210"/>
+    </g>
+    <g fill="#00e5ff">
+      <circle cx="840" cy="70" r="4"><animate attributeName="opacity" values="1;.3;1" dur="3s" repeatCount="indefinite"/></circle>
+      <circle cx="930" cy="120" r="5"><animate attributeName="opacity" values=".3;1;.3" dur="2.6s" repeatCount="indefinite"/></circle>
+      <circle cx="1030" cy="80" r="4"><animate attributeName="opacity" values="1;.3;1" dur="3.4s" repeatCount="indefinite"/></circle>
+      <circle cx="1110" cy="150" r="5"><animate attributeName="opacity" values=".3;1;.3" dur="2.9s" repeatCount="indefinite"/></circle>
+      <circle cx="1020" cy="210" r="4"><animate attributeName="opacity" values="1;.3;1" dur="3.1s" repeatCount="indefinite"/></circle>
+      <circle cx="920" cy="190" r="4" fill="#8b5cf6"><animate attributeName="opacity" values=".3;1;.3" dur="2.4s" repeatCount="indefinite"/></circle>
+    </g>
+    <!-- texte -->
+    <text x="70" y="118" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" letter-spacing="6" fill="#7dd3fc" opacity="0.9">PORTFOLIO PROFESSIONNEL</text>
+    <text x="66" y="198" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="84" font-weight="800" fill="url(#ac)">Vullshann</text>
+    <text x="70" y="244" font-family="'Cascadia Code',Consolas,'Courier New',monospace" font-size="22" fill="#cbd5e1">Ingénierie IA · Agents autonomes · Produits SaaS</text>
+    <rect x="70" y="262" width="260" height="3" rx="1.5" fill="url(#ac)"/>
+    <circle cx="1130" cy="40" r="6" fill="#22c55e"><animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/></circle>
+    <text x="1112" y="45" text-anchor="end" font-family="'Cascadia Code',Consolas,monospace" font-size="14" fill="#86efac">DISPONIBLE</text>
+  </g>
+  <rect x="1" y="1" width="1198" height="318" rx="18" fill="none" stroke="url(#ac)" stroke-opacity="0.6" stroke-width="2"/>
+</svg>
