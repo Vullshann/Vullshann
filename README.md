@@ -65,39 +65,6 @@ Ce que je recherche dans chaque projet :
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-## ◢ Projets
-
-### Projet principal — en cours de développement
-
-> **Agentopia** — plateforme SaaS d'agents IA : agents spécialisés par entreprise, optimisation automatique de la consommation de tokens, données privées par client, formules d'abonnement.
-> *Développement privé — démonstration publique à venir.*
-
-### Projets publics
-
-<p align="center">
-  <a href="https://github.com/Vullshann/Bot_jiffeo"><img src="assets/card-jiffeo.svg" width="49%" alt="Bot Jiffeo"></a>
-  <a href="https://github.com/Vullshann/God-s-Eye"><img src="assets/card-goseye.svg" width="49%" alt="God's Eye"></a>
-</p>
-
-### Projets professionnels à venir
-
-<p align="center">
-  <img src="assets/soon.svg" width="49%" alt="Projet professionnel à venir">
-  <img src="assets/soon.svg" width="49%" alt="Projet professionnel à venir">
-</p>
-
-<img src="assets/divider.svg" width="100%" alt="">
-
-## ◢ Feuille de route
-
-- [x] Premiers bots et outils publics
-- [x] Agentopia : agents, optimisation des tokens, parrainage, analyste d'entreprise
-- [ ] Agentopia : ouverture de la version publique
-- [ ] Publication de projets professionnels détaillés ici
-- [ ] Études de cas : problème, solution, résultats
-
-<img src="assets/divider.svg" width="100%" alt="">
-
 ## ◢ Contact
 
 <p align="center">
