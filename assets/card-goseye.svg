@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="300" viewBox="0 0 560 300" role="img" aria-label="God's Eye">
+  <defs>
+    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00e5ff"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1124"/><stop offset="1" stop-color="#121a3a"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="558" height="298" rx="14" fill="url(#bg)" stroke="#1c2750" stroke-width="2"/>
+  <rect x="1" y="1" width="558" height="5" rx="2.5" fill="url(#ac)"/>
+  <text x="28" y="50" font-family="'Segoe UI',Arial,sans-serif" font-size="26" font-weight="700" fill="url(#ac)">God's Eye</text>
+  <text x="28" y="76" font-family="'Segoe UI',Arial,sans-serif" font-size="14" fill="#94a3b8">Bot Discord de supervision de serveur</text>
+  <rect x="436" y="28" width="100" height="26" rx="13" fill="#0a0e1a" stroke="#22c55e" stroke-opacity="0.6"/>
+  <circle cx="454" cy="41" r="4" fill="#22c55e"/>
+  <text x="466" y="46" font-family="'Cascadia Code',Consolas,monospace" font-size="12" fill="#86efac">Node.js · discord.js</text>
+  <line x1="28" y1="96" x2="532" y2="96" stroke="#1c2750"/>
+  <g font-family="'Segoe UI',Arial,sans-serif" font-size="15" fill="#e2e8f0">
+    <text x="28" y="126">▸ Statistiques en direct : serveurs, salons, membres</text>
+    <text x="28" y="154">▸ Statut dynamique mis à jour automatiquement</text>
+    <text x="28" y="182">▸ Détection de mots-clés et réponses automatiques</text>
+    <text x="28" y="210">▸ Configuration externalisée, déploiement via Procfile</text>
+  </g>
+  <line x1="28" y1="232" x2="532" y2="232" stroke="#1c2750"/>
+  <text x="28" y="262" font-family="'Cascadia Code',Consolas,monospace" font-size="13" fill="#7dd3fc">Prototype</text>
+  <text x="532" y="262" text-anchor="end" font-family="'Cascadia Code',Consolas,monospace" font-size="13" fill="#64748b">card-goseye.svg0</text>
+</svg>

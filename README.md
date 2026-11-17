@@ -6,12 +6,9 @@
   <a href="https://github.com/Vullshann"><img src="https://img.shields.io/badge/GitHub-Vullshann-0a0e1a?style=for-the-badge&logo=github&logoColor=00e5ff&labelColor=0a0e1a&color=1c2750"></a>
   <img src="https://img.shields.io/badge/Statut-Disponible-22c55e?style=for-the-badge&labelColor=0a0e1a">
   <img src="https://img.shields.io/badge/Focus-IA%20%26%20SaaS-8b5cf6?style=for-the-badge&labelColor=0a0e1a">
-  <img src="https://komarev.com/ghpvc/?username=Vullshann&label=Vues&color=00e5ff&style=for-the-badge&labelColor=0a0e1a">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00E5FF&center=true&vCenter=true&width=760&lines=Je+construis+des+agents+IA+utiles+et+fiables;Produits+SaaS+pensés+pour+la+confidentialité;De+l'idée+au+produit+déployé" alt="Typing SVG">
-</p>
+<p align="center"><b>Agents IA utiles et fiables · Produits SaaS pensés pour la confidentialité · De l'idée au produit déployé</b></p>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
@@ -77,43 +74,16 @@ Ce que je recherche dans chaque projet :
 
 ### Projets publics
 
-<table>
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/Vullshann/Bot_jiffeo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vullshann&repo=Bot_jiffeo&theme=tokyonight&bg_color=0a0e1a&border_color=1c2750&title_color=00e5ff&hide_border=false" alt="Bot_jiffeo"></a>
-<br><sub>🤖 Bot d'automatisation</sub>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/Vullshann/God-s-Eye"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vullshann&repo=God-s-Eye&theme=tokyonight&bg_color=0a0e1a&border_color=1c2750&title_color=00e5ff" alt="God-s-Eye"></a>
-<br><sub>👁️ Supervision et surveillance</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/Vullshann/help-egypte"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vullshann&repo=help-egypte&theme=tokyonight&bg_color=0a0e1a&border_color=1c2750&title_color=00e5ff" alt="help-egypte"></a>
-<br><sub>🌐 Site web</sub>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/Vullshann/bottleGames"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vullshann&repo=bottleGames&theme=tokyonight&bg_color=0a0e1a&border_color=1c2750&title_color=00e5ff" alt="bottleGames"></a>
-<br><sub>🎮 Jeux</sub>
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Vullshann/Bot_jiffeo"><img src="assets/card-jiffeo.svg" width="49%" alt="Bot Jiffeo"></a>
+  <a href="https://github.com/Vullshann/God-s-Eye"><img src="assets/card-goseye.svg" width="49%" alt="God's Eye"></a>
+</p>
 
 ### Projets professionnels à venir
 
 <p align="center">
-  <img src="assets/soon.svg" width="48%" alt="Projet professionnel à venir">
-  <img src="assets/soon.svg" width="48%" alt="Projet professionnel à venir">
-</p>
-
-<img src="assets/divider.svg" width="100%" alt="">
-
-## ◢ Activité
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vullshann&show_icons=true&theme=tokyonight&bg_color=0a0e1a&border_color=1c2750&title_color=00e5ff&icon_color=8b5cf6&hide_border=false">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vullshann&layout=compact&theme=tokyonight&bg_color=0a0e1a&border_color=1c2750&title_color=00e5ff&langs_count=6">
+  <img src="assets/soon.svg" width="49%" alt="Projet professionnel à venir">
+  <img src="assets/soon.svg" width="49%" alt="Projet professionnel à venir">
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="">
